@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DiferenciasModelStoreContainer" CdmEntityContainer="BaseDeDatosDeDiferencias">
+    <EntitySetMapping Name="Edicion">
+      <EntityTypeMapping TypeName="DiferenciasModel.Edicion">
+        <MappingFragment StoreEntitySet="Edicion">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Tecnico" ColumnName="Tecnico" />
+          <ScalarProperty Name="Medico" ColumnName="Medico" />
+          <ScalarProperty Name="CadenaInicial" ColumnName="CadenaInicial" />
+          <ScalarProperty Name="CadenaFinal" ColumnName="CadenaFinal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

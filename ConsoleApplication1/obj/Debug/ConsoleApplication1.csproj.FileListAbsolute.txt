@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\Accord.dll.config
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\Accord.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\ProcesamientoDeText\ConsoleApplication1\bin\Debug\Accord.xml

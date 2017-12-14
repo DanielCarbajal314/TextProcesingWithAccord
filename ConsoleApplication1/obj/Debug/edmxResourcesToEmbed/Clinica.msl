@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ClinicaStoreContainer" CdmEntityContainer="BaseDeDatosInformes">
+    <EntitySetMapping Name="Informe">
+      <EntityTypeMapping TypeName="Clinica.Informe">
+        <MappingFragment StoreEntitySet="Informe">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="CuerpoRealizaEnc" ColumnName="CuerpoRealizaEnc" />
+          <ScalarProperty Name="CuerpoValidaEnc" ColumnName="CuerpoValidaEnc" />
+          <ScalarProperty Name="fechainforme" ColumnName="fechainforme" />
+          <ScalarProperty Name="fecharevision" ColumnName="fecharevision" />
+          <ScalarProperty Name="paciente" ColumnName="paciente" />
+          <ScalarProperty Name="medicoinforma" ColumnName="medicoinforma" />
+          <ScalarProperty Name="medicorevisa" ColumnName="medicorevisa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
